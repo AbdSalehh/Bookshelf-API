@@ -53,8 +53,8 @@ Step 4
 
 After running, open <a href="https://www.postman.com/">postman</a> and import as shown above on all files in the `Bookshelf API Test` folder. If all the files have been imported, the <a href="https://www.postman.com/">postman</a> display will look like this :
 <p align="middle">
-  <img align="left" src="https://github.com/AbdSalehh/AbdSalehh/blob/main/assets/images/Movie%20APIs/2.png" width="430" height="auto">
-  <img align="right" src="https://github.com/AbdSalehh/AbdSalehh/blob/main/assets/images/Movie%20APIs/3.png" width="430" height="auto">
+  <img align="left" src="https://github.com/AbdSalehh/AbdSalehh/blob/main/assets/images/Movie%20APIs/2.png" width="380" height="auto">
+  <img align="right" src="https://github.com/AbdSalehh/AbdSalehh/blob/main/assets/images/Movie%20APIs/3.png" width="380" height="auto">
 </p>
 
 <br><br><br><br><br><br><br><br><br><br>
